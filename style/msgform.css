@@ -1,0 +1,16 @@
+/* CSS for msgform.htm */
+
+h1 {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.form {
+    width: 300px;
+    margin-left: 590px;
+    margin-top: 3px;
+}
